@@ -1,0 +1,18 @@
+1,   Idler-Hebel.stl
+1,   Idler-bolzen.stl
+8,   bar-clamp.stl
+4,   belt-clamp.stl
+3,   endstop-holder.stl
+4,   frame-vertex-with-foot.stl
+1,   gregs-x-carriage.stl
+3,   gregs-y-axis-holder.stl
+1,   gregs_accessible_wade-J-head_and_MG_mount.stl
+1,   idler.stl
+2,   integrated-z-mount-frame-vertex-rod-pushfit-M8-608.stl
+1,   large gear.stl
+1,   lm8uu_beefy_5mm_carriage.stl
+2,   pulley.stl
+1,   small gear.stl
+1,   x-end-idler.stl
+1,   x-end-motor.stl
+1   y-motor-bracket.stl

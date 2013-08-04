@@ -1,0 +1,19 @@
+FRAME TRIANGLES
+	Frame Vertices
+	bar clamps
+	integrated z mount
+FRONT, TOP AND REAR THREADED RODS
+	Y motor Bracket
+Y-AXIS
+	belt clamps
+	pulley
+	gregs y axis holder
+X-AXIS
+	x-end-motor
+	x-end-idiler
+Z-AXIS
+	Coupler
+	rod-clamp
+X Carriage
+	gregs x carriage
+
